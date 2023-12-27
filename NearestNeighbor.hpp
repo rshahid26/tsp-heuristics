@@ -1,7 +1,3 @@
-//
-// Created by Raasikh Shahid on 12/22/23.
-//
-
 #ifndef CSCI335_3_NEARESTNEIGHBOR_HPP
 #define CSCI335_3_NEARESTNEIGHBOR_HPP
 
